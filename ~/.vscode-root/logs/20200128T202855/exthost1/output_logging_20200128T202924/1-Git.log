@@ -99,3 +99,73 @@ fatal: no upstream configured for branch 'firststeps'
 > git remote --verbose
 > git config --get commit.template
 > git show :src/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse firststeps
+> git rev-parse --symbolic-full-name firststeps@{u}
+fatal: no upstream configured for branch 'firststeps'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse firststeps
+> git rev-parse --symbolic-full-name firststeps@{u}
+fatal: no upstream configured for branch 'firststeps'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse firststeps
+> git rev-parse --symbolic-full-name firststeps@{u}
+fatal: no upstream configured for branch 'firststeps'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse firststeps
+> git rev-parse --symbolic-full-name firststeps@{u}
+> git rev-list --left-right firststeps...refs/remotes/origin/firststeps
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse firststeps
+> git rev-parse --symbolic-full-name firststeps@{u}
+> git rev-list --left-right firststeps...refs/remotes/origin/firststeps
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse firststeps
+> git rev-parse --symbolic-full-name firststeps@{u}
+> git rev-list --left-right firststeps...refs/remotes/origin/firststeps
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.css
+> git show :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse firststeps
+> git rev-parse --symbolic-full-name firststeps@{u}
+> git rev-list --left-right firststeps...refs/remotes/origin/firststeps
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse firststeps
+> git rev-parse --symbolic-full-name firststeps@{u}
+> git rev-list --left-right firststeps...refs/remotes/origin/firststeps
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

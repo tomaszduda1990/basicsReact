@@ -1410,5 +1410,19 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/tomek/Public/projects"
+    "pickerWorkingDir": "/home/tomek/Public/projects",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/tomek/Public/projects/basicsReact",
+            "backupPath": "/home/tomek/Public/projects/basicsReact/~/.vscode-root/Backups/5d2fcc2402befa8c6cdfa602da44bb14",
+            "uiState": {
+                "mode": 0,
+                "x": 554,
+                "y": 260,
+                "width": 1026,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    }
 }
